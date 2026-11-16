@@ -1,0 +1,6 @@
+1 - Impressora 3D: Algum modelo Creality Ender-3 v2, preço aproximado de R$1200; 
+1.2 - Extrusora de filamento: Extrusora De Filamento 3d De Mesa Para Pet, https://www.mercadolivre.com.br/extrusora-de-filamento-3d-de-mesa-para-pet/up/MLBU5800390626#polycard_client=search-desktop&be_origin=backend&overlay_label=not_apply&search_layout=grid&position=3&type=product&tracking_id=dbfc5004-3927-4068-b7b6-a8e339682a34&overlay_label_capability=not_apply&wid=MLB5507141121&sid=search), valor aproximado de R$890;
+
+2 - Ponto de coleta/Lixeira: Lixeira Grande Contentor De Lixo 120 Litros - Cores; link(https://produto.mercadolivre.com.br/MLB-1388872140-lixeira-grande-contentor-de-lixo-120-litros-cores-_JM?searchVariation=180722660729#is_advertising=true&searchVariation=180722660729&backend_model=search-backend&be_origin=backend&position=1&search_layout=grid&type=pad&tracking_id=6e0c6337-fb36-4114-9713-c8efe9dcae29&ad_domain=VQCATCORE_LST&ad_position=1&ad_click_id=NzI1ZTAwMDItNWYxYy00MThiLTgyZmMtNmZkYjczZWNkZjgy); Recortaríamos uma abertura em cima
+
+3 - Servidor/Aplicativo: Será feito em um pc velho, para testes;
